@@ -1,0 +1,5 @@
+diskpart is used to fix master boot records.
+
+select the disk
+use clean command.
+
